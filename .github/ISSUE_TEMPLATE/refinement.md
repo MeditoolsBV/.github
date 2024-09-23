@@ -64,7 +64,7 @@ Do the steps involved seem like too much work or hard to determine all at once? 
 - [ ] Describe the "Desired situation"
 - [ ] Describe the "Solution"
 - [ ] Describe the steps involved for the solution.
-- [ ] Make an time-estimation for each of the steps.
+- [ ] Make a time-estimation for each of the steps.
 - [ ] Create a sub-issue for steps that take more than a day.
 - [ ] Notify product owner about this issue.
 - [ ] Approved by product owner.
