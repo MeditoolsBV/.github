@@ -27,6 +27,12 @@ Where fitting, include screenshots with annotations and notes.
 
 What steps are involved to get from the current situation to the desired situation.
 This implies that taking these steps solves the problem.
+
+If this includes bigger sections of work, add subsections here.
+Attempt to describe these steps as a task-list.
+Attempt to estimate how much time it will take to complete each of these steps.
+
+Do the steps involved seem like too much work or hard to determine all at once? Scope the issue down or move the first step to a refinement sub-issue and continue from there.
 -->
 
 ## Refine this issue
@@ -57,6 +63,9 @@ This implies that taking these steps solves the problem.
 - [ ] Describe the "Problem"
 - [ ] Describe the "Desired situation"
 - [ ] Describe the "Solution"
+- [ ] Describe the steps involved for the solution.
+- [ ] Make an time-estimation for each of the steps.
+- [ ] Create a sub-issue for steps that take more than a day.
 - [ ] Notify product owner about this issue.
 - [ ] Approved by product owner.
 - [ ] Notify a (different) developer about this issue: @...
@@ -64,6 +73,7 @@ This implies that taking these steps solves the problem.
 
     > A different developer should be able to determine what they should be doing from the steps described in the Solution section.
     > Preferably note down questions, answers, surprises and decisions in the comments.
+    > Check whether the developers estimation is in the same ballpark as the author's (few hours, few days or few weeks).
 
 - [ ] Notify product owner that this issue is ready to be picked up.
 - [ ] Product owner assign "Refined and ready to pick up" in project board.
