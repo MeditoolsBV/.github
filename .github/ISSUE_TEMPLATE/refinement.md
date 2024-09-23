@@ -13,6 +13,7 @@ Where fitting, include screenshots or videos of the current pages or user-flow.
 ## Problem
 
 What in the current situation is problematic.
+Refer to other issues where possible.
 -->
 
 <!--
@@ -37,6 +38,7 @@ This implies that taking these steps solves the problem.
     > When it's a functional change, include Pieter van Tiel.
     > When it's a technical change, include Pieter Bos.
     > The product owner can defer to someone else. Include that person here instead.
+
 - [ ] Discuss the issue.
 
     > You determine whether how you want to discuss this. Start a meeting and work on this issue together, or do this asynchonously.
@@ -57,5 +59,11 @@ This implies that taking these steps solves the problem.
 - [ ] Describe the "Solution"
 - [ ] Notify product owner about this issue.
 - [ ] Approved by product owner.
-- [ ] Ready to be picked up by a developer
-```
+- [ ] Notify a (different) developer about this issue: @...
+- [ ] Approved by (different) developer.
+
+    > A different developer should be able to determine what they should be doing from the steps described in the Solution section.
+    > Preferably note down questions, answers, surprises and decisions in the comments.
+
+- [ ] Notify product owner that this issue is ready to be picked up.
+- [ ] Product owner assign "Refined and ready to pick up" in project board.
