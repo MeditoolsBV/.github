@@ -47,7 +47,7 @@ Do the steps involved seem like too much work or hard to determine all at once? 
 
 - [ ] Discuss the issue.
 
-    > You determine whether how you want to discuss this. Start a meeting and work on this issue together, or do this asynchonously.
+    > You determine whether how you want to discuss this. Start a meeting and work on this issue together, or do this asynchronously.
     > Preferably note down questions, answers, surprises and decisions in the comments.
 
     > Topics:
