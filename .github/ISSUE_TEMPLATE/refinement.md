@@ -40,9 +40,7 @@ Do the steps involved seem like too much work or hard to determine all at once? 
 - [ ] Give short description of this issue.
 - [ ] Determine with whom to discuss this with: @...
 
-    > This should start with a product owner.
-    > When it's a functional change, include Pieter van Tiel.
-    > When it's a technical change, include Pieter Bos.
+    > This should start with the product owner.
     > The product owner can defer to someone else. Include that person here instead.
 
 - [ ] Discuss the issue.
