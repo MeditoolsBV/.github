@@ -1,3 +1,8 @@
+---
+name: Refinement
+about: A project description that still needs to be refined
+---
+
 <!--
 Short description
 -->
