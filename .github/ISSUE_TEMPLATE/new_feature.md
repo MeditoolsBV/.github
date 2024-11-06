@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Why?**
-Add why we should prioritize this. Reasons include user, strategic, technical or other reasons
+Add why we should prioritize this. Reasons include user, strategic, technical or other reasons.
 
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
