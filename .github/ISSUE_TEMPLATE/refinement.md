@@ -59,6 +59,7 @@ Do the steps involved seem like too much work or hard to determine all at once? 
     > - Problem with the current situation
     > - Desired situation
     > - Solution (the steps to get there)
+    > - Security Awareness (relevant security considerations)
     >
     > If the solution seems like potentially more work than a week, create a subissue of one of the steps.
 
